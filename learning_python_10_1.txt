@@ -1,0 +1,3 @@
+In Python, you can create Class.
+In Python, you can import Class.
+In Python, you can create function.
